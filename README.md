@@ -1,2 +1,2 @@
-# First-HTML
-Dotinstall はじめてのHTML
+# First-HTML/CSS
+Dotinstall はじめてのHTML/CSS
